@@ -17,3 +17,6 @@ banned-ips.json
 ops.json
 whitelist.json
 paper.jar
+cache/
+*.jar
+plugins/
