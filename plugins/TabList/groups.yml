@@ -1,0 +1,23 @@
+groups:
+  exampleGroup:
+    prefix: '&a[&cStaff&a]&6 '
+    suffix: '&7 <12> %ping% '  #%player_ping% por si no va el default
+  Default:
+    prefix: '&7<62>&r%luckperms_prefix%'
+    suffix: '&7 <62> %ping% '
+  Admin:
+    prefix: '&7<62>&r%luckperms_prefix%' #%anim:Admin%
+    suffix: '&7 <62> %ping% '
+    sort-priority: 0
+  moderador:
+    prefix: '&7<62>&r%luckperms_prefix%'
+    suffix: '&7 <62> %ping% '
+  constructor:
+    prefix: '&7<62>&r%luckperms_prefix%'
+    suffix: '&7 <62> %ping% '
+  diosa:
+    prefix: '&7<62>&r%luckperms_prefix%'    
+    suffix: '&7 <62> %ping% '
+  vip:
+    prefix: '&7<62>&r%luckperms_prefix%'
+    suffix: '&7 <62> %ping% '
